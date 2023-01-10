@@ -1,0 +1,5 @@
+.vscode
+enwiki*
+filter_gl.py
+*/__pycache__
+Pipfile*
